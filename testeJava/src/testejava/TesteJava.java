@@ -17,6 +17,7 @@ public class TesteJava {
         // TODO code application logic here
         System.out.println("Hello, world!");
         System.out.println("Erro de senha");
+        System.out.println("Nova tentativa dia 22/01/2025");
     }
     
 }
